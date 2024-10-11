@@ -1,0 +1,18 @@
+{
+    "name": "Hello World Power-Up",
+    "description": "A simple Power-Up to say Hello World.",
+    "capabilities": {
+        "board-buttons": [
+            {
+                "text": "Hello World",
+                "condition": "always",
+                "url": "./index.html",
+                "target": "Trello"
+            }
+        ]
+    },
+    "author": "Neveralways",
+    "connectors": [],
+    "id": "generated-id",
+    "version": "1.0"
+}
